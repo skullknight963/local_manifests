@@ -8,6 +8,7 @@
   <project path="hardware/motorola" name="LineageOS/android_hardware_motorola" remote="track" revision="lineage-20" />
   <project path="external/bson" name="LineageOS/android_external_bson" remote="track" revision="lineage-20" />
   <project path="system/qcom" name="LineageOS/android_system_qcom" remote="track" revision="lineage-20" />
+  <project path="vendor/motorola-extra" name="skullknight963/vendor_motorola-extra" remote="track" revision="master" />
 
 <!-- Trees -->
   <project path="device/motorola/beckham" name="skullknight963/device_motorola_beckham" remote="track" revision="t-13.0" />
