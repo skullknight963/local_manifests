@@ -13,6 +13,6 @@
 <!-- Trees -->
   <project path="device/motorola/beckham" name="skullknight963/device_motorola_beckham" remote="track" revision="t-13.0" />
   <project path="vendor/motorola/beckham" name="skullknight963/vendor_motorola_beckham" remote="track" revision="t-13.0" />
-  <project path="kernel/motorola/beckham" name="skullknight963/kernel_motorola_sdm660" remote="track" revision="t-13.0" />
+  <project path="kernel/motorola/beckham" name="skullknight963/kernel_motorola_beckham" remote="track" revision="t-13.0" />
 
 </manifest>
